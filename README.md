@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi El Mudo
+
+Yo quiero comprar una camisa verde 
+Mi tienda favorita esta cerado
+Estoy muy cansado.
