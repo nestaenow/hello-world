@@ -1,6 +1,6 @@
 # hello-world
 
-Hi El Mudo
+Hola El Mudo
 
 Yo quiero comprar una camisa verde 
 Mi tienda favorita esta cerado
