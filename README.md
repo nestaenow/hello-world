@@ -1,7 +1,7 @@
-# hello-world
+# Hello-world🌍
 
 Hola El Mudo
 
-Yo quiero comprar una camisa verde 
-Mi tienda favorita esta cerado
+estudiar ingeniería informática es un sueño para mí, y es tan emocionante💻
+Mi tienda favorita esta cerado y
 Estoy muy cansado.
